@@ -55,3 +55,7 @@ Voir `quality-control.md` et les captures fraîches dans `qa/quality-control/`. 
 ## Contrôle responsive approfondi
 
 Voir `responsive-check.md` : 12 largeurs de 320 à 1920 px, plus paysage 667 × 375. Correction du logo/slogan coupé à 320 px, menu défilant sur écran court, état du menu à la rotation, champs à 16 px minimum sur mobile et cibles tactiles adaptées.
+
+## Déployer sur Vercel
+
+Importer le dépôt en conservant sa racine comme Root Directory. `vercel.json` définit le preset Vite, la commande `npm run build` et le dossier publié `dist/client`. Le build génère également les fichiers de compatibilité Sites, qui ne doivent pas être utilisés comme racine publique sur Vercel.
