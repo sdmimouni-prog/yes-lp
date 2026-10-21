@@ -1,0 +1,110 @@
+[
+  {
+    "brandClipped": false,
+    "brandLeft": 29,
+    "brandRight": 299,
+    "inputFont": "16px",
+    "pageOverflow": 0,
+    "productColumns": 2,
+    "width": 320
+  },
+  {
+    "brandClipped": false,
+    "brandLeft": 45,
+    "brandRight": 338,
+    "inputFont": "16px",
+    "pageOverflow": 0,
+    "productColumns": 2,
+    "width": 375
+  },
+  {
+    "brandClipped": false,
+    "brandLeft": 52,
+    "brandRight": 387,
+    "inputFont": "16px",
+    "pageOverflow": 0,
+    "productColumns": 2,
+    "width": 430
+  },
+  {
+    "brandClipped": false,
+    "brandLeft": 124,
+    "brandRight": 485,
+    "inputFont": "16px",
+    "pageOverflow": 0,
+    "productColumns": 2,
+    "width": 600
+  },
+  {
+    "brandClipped": false,
+    "brandLeft": 207,
+    "brandRight": 569,
+    "inputFont": "16px",
+    "pageOverflow": 0,
+    "productColumns": 2,
+    "width": 767
+  },
+  {
+    "brandClipped": false,
+    "brandLeft": 185,
+    "brandRight": 593,
+    "inputFont": "20px",
+    "pageOverflow": 0,
+    "productColumns": 2,
+    "width": 768
+  },
+  {
+    "brandClipped": false,
+    "brandLeft": 211,
+    "brandRight": 619,
+    "inputFont": "20px",
+    "pageOverflow": 0,
+    "productColumns": 2,
+    "width": 820
+  },
+  {
+    "brandClipped": false,
+    "brandLeft": 312,
+    "brandRight": 721,
+    "inputFont": "20px",
+    "pageOverflow": 0,
+    "productColumns": 2,
+    "width": 1023
+  },
+  {
+    "brandClipped": false,
+    "brandLeft": 44,
+    "brandRight": 292,
+    "inputFont": "16px",
+    "pageOverflow": 0,
+    "productColumns": 4,
+    "width": 1024
+  },
+  {
+    "brandClipped": false,
+    "brandLeft": 56,
+    "brandRight": 365,
+    "inputFont": "18.506px",
+    "pageOverflow": 0,
+    "productColumns": 4,
+    "width": 1280
+  },
+  {
+    "brandClipped": false,
+    "brandLeft": 62,
+    "brandRight": 411,
+    "inputFont": "20.8193px",
+    "pageOverflow": 0,
+    "productColumns": 4,
+    "width": 1440
+  },
+  {
+    "brandClipped": false,
+    "brandLeft": 83,
+    "brandRight": 548,
+    "inputFont": "27.759px",
+    "pageOverflow": 0,
+    "productColumns": 4,
+    "width": 1920
+  }
+]
