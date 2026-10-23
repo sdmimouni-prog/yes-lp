@@ -11,3 +11,6 @@ Build app UI in `src/`. Keep `.openai/hosting.json`, `worker/index.js`, `scripts
 ## Footer reference
 
 The user supplied `Référence fournie : انضموا إلى عائلة Yes Baby Comfort.png` as the exact reference for the newsletter/footer on 2026-10-21. Preserve its desktop proportions, brand lockup, five-column order, four social brands, copy, spacing, and pastel corner artwork. Keep copy, inputs and links as live HTML and preserve motion preferences. Footer styles are scoped in `css/footer.css`.
+
+## Maternity campaign
+On 2026-10-23 the user requested a local standalone HTML landing page for pregnant women: Darija copy, free newborn diaper gift for first15days and free delivery to the home; form includes pregnancy week with approximate month equivalent. Preferred eventual lead destination is Google Sheets. Do not claim submissions are saved until an actual integration is configured.
