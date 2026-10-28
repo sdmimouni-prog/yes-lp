@@ -14,3 +14,4 @@ The user supplied `Référence fournie : انضموا إلى عائلة Yes 
 
 ## Maternity campaign
 On 2026-10-23 the user requested a local standalone HTML landing page for pregnant women: Darija copy, free newborn diaper gift for first15days and free delivery to the home; form includes pregnancy week with approximate month equivalent. Preferred eventual lead destination is Google Sheets. Do not claim submissions are saved until an actual integration is configured.
+On 2026-10-28 the user required the maternity page to fit in one screen with no scrolling, and authorized production deployment. Keep all six form fields, consent, free delivery promise and submit button visible at standard desktop/mobile viewports. Fit content through responsive layout and spacing; do not hide overflow to clip controls.
